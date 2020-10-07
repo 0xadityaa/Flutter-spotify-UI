@@ -1,16 +1,10 @@
-# SpotifyColne
+# Spotify Colne
 
-A new Flutter project.
+This is a simple Spotify UI made using Flutter's Matreial Design.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# This UI includes :
+<img src="https://img.shields.io/badge/Component-Bottom%20Navigation%20Bar-green"/>
+<img src="https://img.shields.io/badge/Component-Dark%20Theme-lightgrey"/>
+<img src="assets/preview1.jpeg" height="800"/>
+<img src="assets/preview2.jpeg" height="800"/>
+<img src="assets/preview3.jpeg" height="800"/>
